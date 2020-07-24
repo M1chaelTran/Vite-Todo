@@ -1,0 +1,23 @@
+{
+  "name": "vite",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "faker": "^4.1.0",
+    "lodash-es": "^4.17.15",
+    "miragejs": "^0.1.40",
+    "vue": "^3.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^2.3.0",
+    "@types/lodash": "^4.14.158",
+    "@vue/compiler-sfc": "^3.0.0-rc.1",
+    "autoprefixer": "^9.8.5",
+    "sass": "^1.26.10",
+    "tailwindcss": "^1.5.2",
+    "vite": "^1.0.0-rc.1"
+  }
+}
